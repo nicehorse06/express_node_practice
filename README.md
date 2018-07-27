@@ -1,5 +1,7 @@
 參考網址：[URL](https://hackernoon.com/restful-api-design-with-node-js-26ccf66eab09)
 
+[《Node.js 包教不包会》 by alsotang](https://github.com/alsotang/node-lessons)
+
 mongoose套件為 moongoDB官方的 ORM
 
 body-parser 為解析 HTTP requests的套件on
@@ -16,3 +18,5 @@ only HTTP methods which have a body are POST and PUT. Remember that
 
 POST man 使用時
 put 和 POST 的body參數要使用 x-www-form-urlencoded
+
+npm list 可以看到包的依賴關係
